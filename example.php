@@ -72,7 +72,7 @@
  <!-- Footer -->
  <footer class="bg-light text-center py-3">
    <div class="container">
-     <span class="text-muted">© 2025 TPNWorkshop. สงวนลิขสิทธิ์</span>
+     <span class="text-muted">© 2025 RTWorkshop. สงวนลิขสิทธิ์</span>
    </div>
  </footer>
 
